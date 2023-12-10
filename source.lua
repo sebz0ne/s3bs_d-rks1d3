@@ -166,7 +166,6 @@ local IsLunging = function(Handle)
 end
 
 local function ValidateLimbIntegrity(Limb)
-    warn("Called!")
     local RealLimbs = {
         "Right Arm",
         "RightArm",
